@@ -1,0 +1,102 @@
+{
+ "LK11": {
+  "features": 2040,
+  "bytes": 870853
+ },
+ "LK12": {
+  "features": 3534,
+  "bytes": 1996162
+ },
+ "LK13": {
+  "features": 2237,
+  "bytes": 1026252
+ },
+ "LK21": {
+  "features": 1160,
+  "bytes": 1060094
+ },
+ "LK22": {
+  "features": 341,
+  "bytes": 408889
+ },
+ "LK23": {
+  "features": 685,
+  "bytes": 695107
+ },
+ "LK31": {
+  "features": 2736,
+  "bytes": 1665008
+ },
+ "LK32": {
+  "features": 691,
+  "bytes": 918895
+ },
+ "LK33": {
+  "features": 2107,
+  "bytes": 3514382
+ },
+ "LK41": {
+  "features": 2497,
+  "bytes": 1001467
+ },
+ "LK42": {
+  "features": 222,
+  "bytes": 310598
+ },
+ "LK43": {
+  "features": 3259,
+  "bytes": 2384612
+ },
+ "LK44": {
+  "features": 796,
+  "bytes": 524630
+ },
+ "LK45": {
+  "features": 408,
+  "bytes": 303776
+ },
+ "LK51": {
+  "features": 2752,
+  "bytes": 2452428
+ },
+ "LK52": {
+  "features": 2232,
+  "bytes": 2564795
+ },
+ "LK53": {
+  "features": 1408,
+  "bytes": 1347186
+ },
+ "LK61": {
+  "features": 19000,
+  "bytes": 10151491
+ },
+ "LK62": {
+  "features": 2306,
+  "bytes": 1270640
+ },
+ "LK71": {
+  "features": 4775,
+  "bytes": 3001078
+ },
+ "LK72": {
+  "features": 746,
+  "bytes": 1422283
+ },
+ "LK81": {
+  "features": 1983,
+  "bytes": 1359712
+ },
+ "LK82": {
+  "features": 1594,
+  "bytes": 2584050
+ },
+ "LK91": {
+  "features": 3952,
+  "bytes": 3143576
+ },
+ "LK92": {
+  "features": 459,
+  "bytes": 416236
+ }
+}
