@@ -1,102 +1,152 @@
 {
- "LK11": {
-  "features": 2040,
-  "bytes": 870853
+ "LK6103": {
+  "name": "Giribawa",
+  "features": 1663,
+  "bytes": 879134
  },
- "LK12": {
-  "features": 3534,
-  "bytes": 1996162
+ "LK6106": {
+  "name": "Galgamuwa",
+  "features": 6507,
+  "bytes": 3192473
  },
- "LK13": {
-  "features": 2237,
-  "bytes": 1026252
+ "LK6109": {
+  "name": "Ehetuwewa",
+  "features": 3836,
+  "bytes": 1774911
  },
- "LK21": {
-  "features": 1160,
-  "bytes": 1060094
+ "LK6112": {
+  "name": "Ambanpola",
+  "features": 2671,
+  "bytes": 1201947
  },
- "LK22": {
-  "features": 341,
-  "bytes": 408889
+ "LK6115": {
+  "name": "Kotawehera",
+  "features": 769,
+  "bytes": 367089
  },
- "LK23": {
-  "features": 685,
-  "bytes": 695107
+ "LK6118": {
+  "name": "Rasnayakapura",
+  "features": 59,
+  "bytes": 44242
  },
- "LK31": {
-  "features": 2736,
-  "bytes": 1665008
+ "LK6121": {
+  "name": "Nikaweratiya",
+  "features": 196,
+  "bytes": 210446
  },
- "LK32": {
-  "features": 691,
-  "bytes": 918895
+ "LK6124": {
+  "name": "Maho",
+  "features": 290,
+  "bytes": 211464
  },
- "LK33": {
-  "features": 2107,
-  "bytes": 3514382
+ "LK6127": {
+  "name": "Polpitigama",
+  "features": 339,
+  "bytes": 398413
  },
- "LK41": {
-  "features": 2497,
-  "bytes": 1001467
+ "LK6130": {
+  "name": "Ibbagamuwa",
+  "features": 192,
+  "bytes": 344943
  },
- "LK42": {
-  "features": 222,
-  "bytes": 310598
+ "LK6133": {
+  "name": "Ganewatta",
+  "features": 212,
+  "bytes": 211950
  },
- "LK43": {
-  "features": 3259,
-  "bytes": 2384612
+ "LK6136": {
+  "name": "Wariyapola",
+  "features": 372,
+  "bytes": 300614
  },
- "LK44": {
-  "features": 796,
-  "bytes": 524630
+ "LK6139": {
+  "name": "Kobeigane",
+  "features": 106,
+  "bytes": 112982
  },
- "LK45": {
-  "features": 408,
-  "bytes": 303776
+ "LK6142": {
+  "name": "Bingiriya",
+  "features": 97,
+  "bytes": 101069
  },
- "LK51": {
-  "features": 2752,
-  "bytes": 2452428
+ "LK6145": {
+  "name": "Panduwasnuwara West",
+  "features": 231,
+  "bytes": 193268
  },
- "LK52": {
-  "features": 2232,
-  "bytes": 2564795
+ "LK6148": {
+  "name": "Panduwasnuwara East",
+  "features": 201,
+  "bytes": 117205
  },
- "LK53": {
-  "features": 1408,
-  "bytes": 1347186
+ "LK6149": {
+  "name": "Bamunakotuwa",
+  "features": 345,
+  "bytes": 150041
  },
- "LK61": {
-  "features": 19000,
-  "bytes": 10151491
+ "LK6151": {
+  "name": "Maspotha",
+  "features": 78,
+  "bytes": 52075
  },
- "LK62": {
-  "features": 2306,
-  "bytes": 1270640
+ "LK6154": {
+  "name": "Kurunegala",
+  "features": 287,
+  "bytes": 164811
  },
- "LK71": {
-  "features": 4775,
-  "bytes": 3001078
+ "LK6157": {
+  "name": "Mallawapitiya",
+  "features": 54,
+  "bytes": 69778
  },
- "LK72": {
-  "features": 746,
-  "bytes": 1422283
+ "LK6160": {
+  "name": "Mawathagama",
+  "features": 17,
+  "bytes": 15161
  },
- "LK81": {
-  "features": 1983,
-  "bytes": 1359712
+ "LK6163": {
+  "name": "Rideegama",
+  "features": 76,
+  "bytes": 65648
  },
- "LK82": {
-  "features": 1594,
-  "bytes": 2584050
+ "LK6166": {
+  "name": "Weerabugedara",
+  "features": 180,
+  "bytes": 79478
  },
- "LK91": {
-  "features": 3952,
-  "bytes": 3143576
+ "LK6169": {
+  "name": "Kuliyapitiya East",
+  "features": 149,
+  "bytes": 129466
  },
- "LK92": {
-  "features": 459,
-  "bytes": 416236
+ "LK6172": {
+  "name": "Kuliyapitiya West",
+  "features": 190,
+  "bytes": 117617
+ },
+ "LK6175": {
+  "name": "Udubaddawa",
+  "features": 54,
+  "bytes": 42946
+ },
+ "LK6178": {
+  "name": "Pannala",
+  "features": 126,
+  "bytes": 136306
+ },
+ "LK6181": {
+  "name": "Narammala",
+  "features": 86,
+  "bytes": 42919
+ },
+ "LK6184": {
+  "name": "Alawwa",
+  "features": 59,
+  "bytes": 32600
+ },
+ "LK6187": {
+  "name": "Polgahawela",
+  "features": 49,
+  "bytes": 28415
  }
 }
